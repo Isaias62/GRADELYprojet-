@@ -141,4 +141,4 @@ gradely/
 ## Auteurs
 
 - **SORO Jean-Samuel Henoc** — architecture backend, API REST, authentification JWT, supervision, dashboard, frontend
-- **DIALLO Alpha Boubacar** — module IA (OpenAI), composants frontend (CommentList, ActivityFeed), documentation
+- **DIALLO Alpha Boubacar** — module IA (OpenAI), frontend, documentation
